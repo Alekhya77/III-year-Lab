@@ -9,4 +9,5 @@ To implement data link layer framing method character count.
 3.
 
 ## Output 
-![output](sample.png)
+
+![output](output_characterCount.png)
